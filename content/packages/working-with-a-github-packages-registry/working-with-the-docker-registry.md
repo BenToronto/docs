@@ -1,3 +1,6 @@
+![SmallLogo](https://user-images.githubusercontent.com/83716543/142710669-f16c9ca2-a842-490d-9125-198d94aa8b32.png)
+![SmallLogoCanary](https://user-images.githubusercontent.com/83716543/142710670-2875dd34-9380-4161-8b44-be53846f07d1.png)
+![Logo](https://user-images.githubusercontent.com/83716543/142710674-bee27c0c-17a7-4cae-b638-bbaf6620e07d.png)
 ---
 title: Working with the Docker registry
 intro: '{% ifversion fpt or ghec %}The Docker registry has now been replaced by the {% data variables.product.prodname_container_registry %}.{% else %}You can push and pull your Docker images using the {% data variables.product.prodname_registry %} Docker registry, which uses the package namespace `https://docker.pkg.github.com`.{% endif %}'
